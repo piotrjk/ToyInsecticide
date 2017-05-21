@@ -1,0 +1,6 @@
+{
+  "test_dir": ".\\tests",
+  "sqlite_db_dir": ".\\databases",
+  "configuration_db_file_name": "configuration.db",
+  "reports_db_file_name": "reports.db"
+}
